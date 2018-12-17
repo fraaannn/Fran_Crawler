@@ -16,3 +16,7 @@ data encrypted by js
 ### faloo
 - description: encrypt login pwd
 - target: https://u.faloo.com/Regist/Login.aspx
+
+### etongdai
+- description: encrypt login pwd
+- target: https://app.etongdai.com/login/index
