@@ -24,3 +24,7 @@ data encrypted by js
 ### weixin
 - description: encrypt login pwd
 - target: https://mp.weixin.qq.com/
+
+### 5173
+- description: encrypt login pwd
+- target: https://passport.5173.com/
