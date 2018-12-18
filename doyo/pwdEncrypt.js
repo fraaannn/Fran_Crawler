@@ -166,10 +166,10 @@ Utf8.decode = function(strUtf) {
             return String.fromCharCode(cc); }
     );
     return strUni;
-}
+};
 
-pwdEncrypt = function (password, nonce, ts) {
+function pwdEncrypt(password, nonce, ts) {
     pwd = Sha1.hash(password);
     pwd = Sha1.hash(nonce+ts+pwd);
     return pwd
-};
+}

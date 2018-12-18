@@ -23,7 +23,7 @@ def get_encrypt_pwd(account, password):
     data = get_data(account)
     js_str = get_js()
     ctx = execjs.compile(js_str)
-    encrypt_pwd = ctx.call(password, data['nonce'], data['ts'])
+    encrypt_pwd = ctx.call('pwdEncrypt', password, data['nonce'], data['ts'])
     return encrypt_pwd
 
 if __name__ == '__main__':
