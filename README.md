@@ -20,3 +20,7 @@ data encrypted by js
 ### etongdai
 - description: encrypt login pwd
 - target: https://app.etongdai.com/login/index
+
+### weixin
+- description: encrypt login pwd
+- target: https://mp.weixin.qq.com/
