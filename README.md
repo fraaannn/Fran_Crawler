@@ -32,3 +32,7 @@ data encrypted by js
 ### wcbchina
 - description: encrypt registered sign data
 - target: https://m.wcbchina.com/invite/invite.html
+
+### yihaosq
+- description: encrypt login pwd
+- target: http://yihaosq.95jw.cn/jiuwuxiaohun.php?m=Admin&c=Publics&a=login
