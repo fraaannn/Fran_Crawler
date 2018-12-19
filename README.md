@@ -36,3 +36,7 @@ data encrypted by js
 ### yihaosq
 - description: encrypt login pwd
 - target: http://yihaosq.95jw.cn/jiuwuxiaohun.php?m=Admin&c=Publics&a=login
+
+### holike
+- description: encrypt login pwd
+- target: http://oa.holike.com/login.jsp
