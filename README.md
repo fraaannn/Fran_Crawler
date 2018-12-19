@@ -28,3 +28,7 @@ data encrypted by js
 ### 5173
 - description: encrypt login pwd
 - target: https://passport.5173.com/
+
+### wcbchina
+- description: encrypt registered sign data
+- target: https://m.wcbchina.com/invite/invite.html
