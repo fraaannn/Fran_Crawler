@@ -40,3 +40,7 @@ data encrypted by js
 ### holike
 - description: encrypt login pwd
 - target: http://oa.holike.com/login.jsp
+
+### 189
+- description: encrypt login pwd
+- target: http://login.189.cn/login
