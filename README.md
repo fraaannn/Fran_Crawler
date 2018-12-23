@@ -48,3 +48,7 @@ data encrypted by js
 ### kongzhong
 - description: encrypt login pwd
 - target: https://passport.kongzhong.com/login
+
+### ddky
+- description: encrypt login sign
+- target: http://m.ddky.com/regsiter.html
