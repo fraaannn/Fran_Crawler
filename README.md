@@ -44,3 +44,7 @@ data encrypted by js
 ### 189
 - description: encrypt login pwd
 - target: http://login.189.cn/login
+
+### kongzhong
+- description: encrypt login pwd
+- target: https://passport.kongzhong.com/login
