@@ -52,3 +52,7 @@ data encrypted by js
 ### ddky
 - description: encrypt login sign
 - target: http://m.ddky.com/regsiter.html
+
+### 51qianba
+- description: encrypt login pwd
+- target: https://www.51qianba.com/web/fdLoginController.do?fdLogin
