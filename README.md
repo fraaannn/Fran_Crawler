@@ -56,3 +56,7 @@ data encrypted by js
 ### 51qianba
 - description: encrypt login pwd
 - target: https://www.51qianba.com/web/fdLoginController.do?fdLogin
+
+### renrendai
+- description: encrypt login pwd
+- target: https://www.renrendai.com/pc/passport/index/login
