@@ -60,3 +60,7 @@ data encrypted by js
 ### renrendai
 - description: encrypt login pwd
 - target: https://www.renrendai.com/pc/passport/index/login
+
+### rjs
+- description: encrypt login sign
+- target: https://m.rjs.com/member/user.html
