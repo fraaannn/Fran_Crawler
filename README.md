@@ -64,3 +64,7 @@ data encrypted by js
 ### rjs
 - description: encrypt login sign
 - target: https://m.rjs.com/member/user.html
+
+### yidai
+- description: encrypt login pwd
+- target: https://www.yidai.com/user/login/
