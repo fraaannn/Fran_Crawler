@@ -68,3 +68,7 @@ data encrypted by js
 ### yidai
 - description: encrypt login from data
 - target: https://www.yidai.com/user/login/
+
+### gomemyc
+- description: encrypt account and pwd
+- target: https://www.gomemyc.com/login/
