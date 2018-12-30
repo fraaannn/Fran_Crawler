@@ -72,3 +72,7 @@ data encrypted by js
 ### gomemyc
 - description: encrypt account and pwd
 - target: https://www.gomemyc.com/login/
+
+### kankan
+- description: encrypt pwd
+- target: http://www.kankan.com/
