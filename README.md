@@ -74,5 +74,9 @@ data encrypted by js
 - target: https://www.gomemyc.com/login/
 
 ### kankan
-- description: encrypt pwd
+- description: encrypt login pwd
 - target: http://www.kankan.com/
+
+### cmpassport
+- description: encrypt login pwd
+- target: https://www.cmpassport.com/
