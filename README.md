@@ -80,3 +80,7 @@ data encrypted by js
 ### cmpassport
 - description: encrypt login pwd
 - target: https://www.cmpassport.com/
+
+### fengjr
+- description: encrypt login params
+- target: https://my.fengjr.com/login
