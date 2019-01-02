@@ -84,3 +84,7 @@ data encrypted by js
 ### fengjr
 - description: encrypt login params
 - target: https://my.fengjr.com/login
+
+### bl
+- description: encrypt login pwd
+- target: https://passport.bl.com/loginDisplay.html
