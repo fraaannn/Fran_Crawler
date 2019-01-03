@@ -88,3 +88,7 @@ data encrypted by js
 ### bl
 - description: encrypt login pwd
 - target: https://passport.bl.com/loginDisplay.html
+
+### phfund
+- description: encrypt pwd and sign
+- target: https://aj.phfund.com.cn/login.html
