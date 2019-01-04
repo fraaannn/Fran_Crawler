@@ -92,3 +92,7 @@ data encrypted by js
 ### phfund
 - description: encrypt pwd and sign
 - target: https://aj.phfund.com.cn/login.html
+
+### pptv
+- description: encrypt params
+- target: http://game.g.pptv.com/user/login/
