@@ -96,3 +96,7 @@ data encrypted by js
 ### pptv
 - description: encrypt params
 - target: http://game.g.pptv.com/user/login/
+
+### changhong
+- description: encrypt pwd
+- target: https://passport.changhong.com/login.do?view=vip
