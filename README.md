@@ -100,3 +100,11 @@ data encrypted by js
 ### changhong
 - description: encrypt pwd
 - target: https://passport.changhong.com/login.do?view=vip
+
+### bcw
+- description: encrypt pwd
+- target: https://m.vipbcw.com/login/index
+
+### tjinsuo
+- description: encrypt pwd
+- target: https://weixin.tjinsuo.com/#login/mine
