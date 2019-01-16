@@ -108,3 +108,7 @@ data encrypted by js
 ### tjinsuo
 - description: encrypt pwd
 - target: https://weixin.tjinsuo.com/#login/mine
+
+### dns
+- description: encrypt pwd
+- target: https://www.dns.com/login.html
