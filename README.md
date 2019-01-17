@@ -112,3 +112,7 @@ data encrypted by js
 ### dns
 - description: encrypt pwd
 - target: https://www.dns.com/login.html
+
+### mtime
+- description: encrypt pwd
+- target: https://m.mtime.cn/#!/member/signin
