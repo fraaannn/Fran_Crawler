@@ -116,3 +116,7 @@ data encrypted by js
 ### mtime
 - description: encrypt pwd
 - target: https://m.mtime.cn/#!/member/signin
+
+### gkkxd
+- description: encrypt pwd
+- target: https://www.gkkxd.com/userAuth/login
